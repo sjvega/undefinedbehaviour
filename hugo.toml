@@ -1,0 +1,5 @@
+baseURL = 'https://undefinedbehaviour.xyz/'
+locale = 'en-us'
+title = 'Undefined Behaviour'
+theme = 'terminal'
+
