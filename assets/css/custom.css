@@ -1,0 +1,29 @@
+html {
+    font-size: 18px;
+}
+body{
+  font-family: 'Besely', serif;
+  font-weight: 400;
+  color: #fcfcfc;
+  background-color: #242424;
+  max-width: 70ch;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-rendering: optimizeLegibility;
+}
+
+h1,h2,h3,h4,h5,h6,nav,header,footer {
+    font-family: 'Cormorant Garamond', serif;
+    font-weight: 700;
+}
+
+footer, footer * {
+    font-size: 14px;
+}
+
+.header-menu a {
+    font-family: 'Cormorant Garamond', serif;
+    font-size: 1.1rem;
+}
+body {
+}

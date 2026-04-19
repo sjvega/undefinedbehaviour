@@ -1,5 +1,16 @@
 baseURL = 'https://undefinedbehaviour.xyz/'
 locale = 'en-us'
 title = 'Undefined Behaviour'
-theme = 'terminal'
+theme = 'typo'
+
+[params]
+    math = true
+    darkMode = true
+    menu = [
+        { name = "home", url = "/" },
+        { name = "writing", url = "/writing" },
+        { name = "tags", url = "/tags" },
+        { name = "about", url = "/about" }
+    ]
+
 
