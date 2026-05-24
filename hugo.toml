@@ -12,5 +12,9 @@ theme = 'typo'
         { name = "tags", url = "/tags" },
         { name = "about", url = "/about" }
     ]
+[markup]
+    [markup.goldmark.extensions.typographer]
+     disable = true
+        
 
 
