@@ -196,7 +196,7 @@ order language; there are actually multiple ways to do it but the most accepted
 one is the Zermelo-Fraenkel (or ZF for short).
 
 As a direct corollary from the Löwenheim-Skolem theorem is the following:
-we have a model of ZF -- the one we 'use' to make math every day; that
+we have a model of ZF - the one we 'use' to make math every day; that
 model is infinite (we have the set of natural numbers inside). Therefore, there
 must be a model of ZF that is countable (the smallest possible infinity).
 Furthermore, the real numbers $\R$ can be defined in the model we usually use,
@@ -223,7 +223,7 @@ _in our usual model_, Cantor's theorem does not apply to sets "across models"!
 ## How large are the real numbers?
 
 One thing that we can take from Skolem's paradox is that _we actually don't
-know how large are the real numbers_. We don't really know in which model of ZF
+know how large the real numbers are_. We don't really know in which model of ZF
 we 'live'; we know that in any model we can't find a bijection from the real
 numbers to the natural numbers, but that we can't find it doesn't mean it
 doesn't exist _somewhere else_.
