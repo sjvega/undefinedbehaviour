@@ -190,7 +190,7 @@ uncountable versions of them!
 
 ## Skolem's Paradox
 
-The example I'd like to finish here today is the one related to the one I
+There's a final example I'd like to share here today; one related to what I
 mentioned at the beginning. The theory of sets can be formulated in a first
 order language; there are actually multiple ways to do it but the most accepted
 one is the Zermelo-Fraenkel (or ZF for short).
