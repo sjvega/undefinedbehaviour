@@ -211,19 +211,19 @@ what is happening?
 
 This apparent contradiction is known as Skolem's Paradox.
 
-Cantor's theorem interpreted literally only says: "a bijection from $\N$ to
+Cantor's theorem only says: "a bijection from $\N$ to
 $\R$ does not exist"; if one understands a function as a _set_, the statement
 can be reinterpreted as: "a specific set (with some required properties) does
-not exist _in this model_". From this what one can gather is that it's possible
-that _there is a bijection_ from the real numbers (in that model) to the
-natural numbers, _it's just that the bijection is not a set inside that model_!
+not exist _in this model_". From that reinterpretation, one can gather is that it's possible
+that there is a bijection from the real numbers (in that model) to the
+natural numbers, it's just that the bijection is not a set inside that model!
 In other words, the concept of cardinality _in that model_ works the same as
-_in our usual model_, Cantor's theorem does not apply to sets "across models"!
+_in our usual model_, but Cantor's theorem does not apply to sets "across models"!
 
 ## How large are the real numbers?
 
 One thing that we can take from Skolem's paradox is that _we actually don't
 know how large the real numbers are_. We don't really know in which model of ZF
-we 'live'; we know that in any model we can't find a bijection from the real
+we 'live'; we know that in all ZF models, we can't find a bijection from the real
 numbers to the natural numbers, but the fact that we can't find it doesn't mean
-that the bijection doesn't _somewhere else_.
+that the bijection doesn't exists _somewhere else_.
