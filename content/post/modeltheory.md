@@ -111,8 +111,8 @@ identify them as groups). There might be other formulas that are true in $G$
 but not in $H$ and vice versa. For a more concrete example, let $G = Z/2$ be the 
 integers modulo $2$, and its trivial subgroup $H=\{0\}$, then $G$ and $H$ are
 not isomorphic as groups, _so there must be a formula (in the language of 
-groups)_ that is true in $G$ and not in $H$ and vice versa (cool exercise to
-understand why btw).
+groups)_ that is true in $G$ and not in $H$ and vice versa, right? (Cool
+exercise to understand what is happening).
 {{</callout>}}
 
 ## Elementary Substructures
