@@ -225,5 +225,5 @@ _in our usual model_, Cantor's theorem does not apply to sets "across models"!
 One thing that we can take from Skolem's paradox is that _we actually don't
 know how large the real numbers are_. We don't really know in which model of ZF
 we 'live'; we know that in any model we can't find a bijection from the real
-numbers to the natural numbers, but that we can't find it doesn't mean it
-doesn't exist _somewhere else_.
+numbers to the natural numbers, but the fact that we can't find it doesn't mean
+that the bijection doesn't _somewhere else_.
