@@ -1,5 +1,5 @@
 ---
-title: "We can't know how big are the real numbers"
+title: "We can't know how big the real numbers are"
 math: true
 draft: false
 date: 2026-05-24
@@ -129,7 +129,7 @@ also a group that is _isomorphic_ to the whole group, meaning that they _must_
 satisfy the same formulas (also cool exercise).
 {{</callout>}}
 
-A model admits substructures, much less elementary substructures.
+Not always a model admits substructures, much less elementary substructures.
 
 If one thinks for a bit, for a model to admit an elementary substructure it
 should behave much like infinity: a part is 'equivalent' to the whole in some
